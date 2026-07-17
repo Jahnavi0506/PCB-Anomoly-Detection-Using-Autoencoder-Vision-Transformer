@@ -1,5 +1,7 @@
 # PCB Defect Detection System (Two-Phase Pipeline)
 
+Live Demo at : https://pcbanamolydetection-dsmfdw7smjhv7rhtuhu4yl.streamlit.app/
+
 This project detects PCB defects using a two-stage inference flow:
 
 - Phase 1: Autoencoder binary detection (`normal` vs `anomaly`)
